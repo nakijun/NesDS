@@ -5,7 +5,7 @@ Since the 0.40 version, I ported the code of EX Edtion to the original nesDS, no
 If you found any bug on nesDS, just tell me. Maybe I could fix it.
 
 2016-5-03
-coto: nifi is back (rollback changes to DSWIFI 0.3.13), fixed a guru meditation screen due to buffer overflow on romdb rom adjustment, becoming NesDS1.3b
+coto: nifi is back (rollback changes to DSWIFI 0.3.13), fixed a guru meditation screen due to buffer overflow on romdb rom adjustment, becoming NesDS1.3c
 
 2011-3-23
 avenir contributed some codes to version 0.45a.
